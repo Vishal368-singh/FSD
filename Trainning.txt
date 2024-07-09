@@ -1,0 +1,14 @@
+		06/07/2024
+	Dynamic Memory Allocation
+1)malloc:
+	Syntax: ptr = (cast-type*) malloc(byte-size)
+2)calloc:
+	Syntax: ptr = (cast-type*)calloc(n, element-size);
+3)realloc:
+	Syntax: ptr = realloc(ptr, newSize);
+4)free():
+	Syntax: free(ptr);
+5)Array 1D
+6)Array 2D
+		08/09/2024
+1)
